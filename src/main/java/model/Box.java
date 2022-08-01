@@ -33,7 +33,7 @@ public class Box {
     public void setOwner(){
         System.out.println("hello world");
 
-        int a = 1;
+        int c = 1;
 
         // test
 
