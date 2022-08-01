@@ -17,8 +17,11 @@ public class Box {
         return address;
     }
 
+    /*Setters*/
     public void setAddress(String address) {
         this.address = address;
+
+
     }
 
     public Volunteer getOwner() {
