@@ -29,9 +29,7 @@ public class Box {
     }
 
     // todo: addres, status, in charge of
-    public void setAddres(){
 
-    }
     public void setOwner(){
 
     }
