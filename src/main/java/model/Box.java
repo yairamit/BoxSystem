@@ -31,7 +31,7 @@ public class Box {
     // todo: addres, status, in charge of
 
     public void setOwner(){
-
+        System.out.println("hello world");
     }
 
 
