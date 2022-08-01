@@ -12,6 +12,7 @@ public class Box {
         this.owner = owner;
     }
 
+    /* GETTERS */
     public String getAddress() {
         return address;
     }
