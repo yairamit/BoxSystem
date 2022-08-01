@@ -31,10 +31,9 @@ public class Box {
     // todo: addres, status, in charge of
 
     public void setOwner(){
-        System.out.println("hello world");
-
-        int c = 1;
-
+        // int a = 2;
+        int b = 2;
+        double c = 2;
         // test
 
     }
